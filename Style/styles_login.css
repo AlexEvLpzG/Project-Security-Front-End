@@ -1,0 +1,13 @@
+.bg {
+	background-image: url( /img/Seguridad-Informatica-infografia-3.png);
+	background-position: center left;
+	background-size: 85%;
+	background-repeat: no-repeat;
+}
+
+.bg.new {
+	background-image: url( /img/cyber-security-2974902-2477419.png);
+	background-position: center left;
+	background-size: 90%;
+	background-repeat: no-repeat;
+}
