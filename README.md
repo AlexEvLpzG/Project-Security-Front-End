@@ -18,6 +18,3 @@ TripleDES (Triple Data Encryption Algorithm) es un algoritmo de cifrado simétri
 
 ### Robbit.
 Rabbit es un algoritmo de cifrado de flujo que ha sido diseñado para un alto rendimiento en las implementaciones de software. Tanto la configuración de claves y encriptación son muy rápidos, por lo que el algoritmo es especialmente adecuado para todas las aplicaciones en las que grandes cantidades de datos o un gran número de paquetes de datos deben ser cifrados. [Ver la información completa.](https://crpto.blogspot.com/2013/07/cifrado-de-flujo-rabbit.html")
-
-## Interfaz.
-![](https://i.ibb.co/8jJppVZ/media-io-Lbbnjruy.gif)
